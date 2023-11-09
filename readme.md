@@ -38,4 +38,4 @@ Feel free to explore the dashboard and gain insights into our sales data! If you
 
 Happy analyzing!
 
-[Raj Kumar Jiswal]
+[Raj Kumar Jaiswal]
