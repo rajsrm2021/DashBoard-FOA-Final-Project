@@ -28,7 +28,7 @@ Welcome to the Sales Dashboard project, my final project for the Data Analytics 
 
 ## Screenshots
 
-![Dashboard Screenshot](/screenshots/dashboard.png)
+![Dashboard Screenshot](/screenshots/design.png)
 
 ## Contributing
 
